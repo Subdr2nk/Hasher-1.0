@@ -2,7 +2,7 @@ echo Collecting Files..
 set version = "1.0"
 set file = "package_run.sh"
 echo "Building package_run.sh"
-sleep(5)
+sleep5
 
 
 nullied = ($file)
@@ -24,4 +24,4 @@ eval("li.sh")
 
 echo "Sucessfully installed Hasher $version"
 
-sleep(5)
+sleep 5
