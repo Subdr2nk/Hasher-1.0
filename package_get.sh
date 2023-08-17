@@ -1,5 +1,5 @@
 if test -F ["/app"] then
   echo "Collecting getat.sh"
-  eval("getat.sh")
+  bash "getat.sh"
 fi
 
