@@ -1,6 +1,6 @@
 mkdir "app"
 cd "app"
-
-bash "package_get.sh"
+set package_get = "package_get.sh"
+bash $package_get
 
 
