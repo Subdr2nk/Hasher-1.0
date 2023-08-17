@@ -2,7 +2,7 @@ echo Collecting Files..
 set version = "1.0"
 set file = "package_run.sh"
 echo "Building package_run.sh"
-sleep5
+sleep 5
 
 
 nullied = ($file)
