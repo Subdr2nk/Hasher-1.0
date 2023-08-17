@@ -1,5 +1,6 @@
 if test -F ["/app"] then
+  set package = "getat.sh"
   echo "Collecting getat.sh"
-  bash "getat.sh"
+  bash $package
 fi
 
