@@ -11,12 +11,10 @@ function build_package(){
   touch .git
   touch .config
   touch terminal.toml
-
-  if test -F ["/app"] then
-    cd app
-    touch "Hasher 1.0.sh"
-    buildclass
-  fi
+  cd app
+  touch "Hasher 1.0.sh"
+  buildclass
+ 
 }
 
 
