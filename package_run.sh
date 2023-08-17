@@ -1,6 +1,6 @@
 mkdir "app"
 cd "app"
 
-eval("package_get.sh")
+bash "package_get.sh"
 
 
