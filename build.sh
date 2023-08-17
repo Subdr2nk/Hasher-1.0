@@ -5,7 +5,7 @@ function buildclass(){
   echo "Your hash: $hashfound " >> "Hasher 1.0.sh"
 }
 
-function build(){
+function build_package(){
   touch .gitignore
   touch setup.cfg
   touch .git
