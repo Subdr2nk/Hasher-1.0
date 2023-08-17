@@ -14,18 +14,13 @@ done
 
 echo Sucessfully Installed additional files
 
-set package_needed = "getat.sh" 
 
-echo "Collecting package_needed.. "
 
-eval($package_needed)
+echo "Downloading LICENSE & README.md"
 
-install_pack=("LICENSE.txt", "README.md")
+eval("li.sh")
 
-echo "collecting LICENSE & README.md"
 
-for i in ${install_pack}
-  eval(i)
 
 echo "Sucessfully installed Hasher $version"
 
