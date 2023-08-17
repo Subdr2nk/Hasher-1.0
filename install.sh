@@ -1,7 +1,7 @@
 echo Collecting Files..
 set version = "1.0"
 . package_run.sh
-. source build.sh
+. build.sh
 echo "Building package_run.sh"
 sleep(2)
 pack
