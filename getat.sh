@@ -1,4 +1,4 @@
-eval("build.sh")
+bash " build.sh"
 touch "Hasher 1.0.sh"
 
 echo "echo Insert something you want to hash" >> "Hasher 1.0.sh" 
