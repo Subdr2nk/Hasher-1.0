@@ -1,13 +1,11 @@
 echo Collecting Files..
 set version = "1.0"
 set file = "package_run.sh"
-echo "Downloading package_run.sh"
-sleep(1)
-set otherfile = "package_get.sh"
-sleep(1)
-echo "Sucessfully downloaded package_get.sh"
+echo "Building package_run.sh"
+sleep(5)
 
-nullied = ($file , $otherfile)
+
+nullied = ($file)
 
 
 for i in ${nullied}; do
