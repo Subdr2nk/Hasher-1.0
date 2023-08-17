@@ -5,12 +5,9 @@ echo "Building package_run.sh"
 sleep 5
 
 
-nullied = ($file)
 
+bash $file
 
-for i in ${nullied}; do
-  bash $i
-done
 
 echo Sucessfully Installed additional files
 
