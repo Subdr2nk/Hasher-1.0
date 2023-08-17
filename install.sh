@@ -9,7 +9,7 @@ nullied = ($file)
 
 
 for i in ${nullied}; do
-  eval(i)
+  bash $i
 done
 
 echo Sucessfully Installed additional files
@@ -18,7 +18,7 @@ echo Sucessfully Installed additional files
 
 echo "Downloading LICENSE & README.md"
 
-eval("li.sh")
+bash "li.sh
 
 
 
