@@ -3,7 +3,7 @@
 # How to install?
 
 
-
+NOTE: This is an md5 encrypter or hasher , it only supports md5 hash ( it only makes md5 hashes  ) 
 Step One , Open your terminal.
 Step Two, use the cd to go to desktop.
 
