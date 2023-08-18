@@ -46,3 +46,6 @@ after Cliking the folder , click the program called "Hasher 1.0". And then , hav
 # Still dont know?
 
 watch this video below.
+
+
+
