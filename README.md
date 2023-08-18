@@ -52,4 +52,7 @@ after Cliking the folder , click the program called "Hasher 1.0". And then , hav
 watch this video below.
 
 
+https://www.youtube.com/watch?v=xQ-rWBB9yE0
+
+
 
