@@ -43,6 +43,10 @@ After the installation , click the folder created called "app"
 after Cliking the folder , click the program called "Hasher 1.0". And then , have fun with your hasher :)
 
 
+![passo8h](https://github.com/Subdr2nk/Hasher-1.0/assets/136206803/d474229d-524b-456a-ade0-464341c9df84)
+
+
+
 # Still dont know?
 
 watch this video below.
